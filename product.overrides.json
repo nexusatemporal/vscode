@@ -1,0 +1,14 @@
+{
+	"nameShort": "Nexus",
+	"nameLong": "Nexus Console",
+	"applicationName": "nexus-console",
+	"dataFolderName": ".nexus-console",
+	"urlProtocol": "nexus",
+	"licenseName": "MIT",
+	"reportIssueUrl": "https://github.com/nexusatemporal/vscode/issues/new",
+	"quality": "stable",
+	"enableTelemetry": false,
+	"configurationDefaults": {
+		"workbench.colorTheme": "Nexus Dark"
+	}
+}
