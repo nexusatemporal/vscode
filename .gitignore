@@ -46,3 +46,10 @@ dist
 .github/prompts/*.local.prompt.md
 .agents/skills/.local/
 .github/skills/.local/
+
+# Local build helpers (Nexus)
+_install.bat
+_install.log
+_compile.bat
+_compile.log
+npm-install*.log
